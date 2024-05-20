@@ -1,0 +1,15 @@
+C:\Users\chris.freckleton\source\repos\CodeKata-Mean-Square-Error\MeanSquareError\MeanSquareError\bin\Debug\net8.0\MeanSquareError.exe
+C:\Users\chris.freckleton\source\repos\CodeKata-Mean-Square-Error\MeanSquareError\MeanSquareError\bin\Debug\net8.0\MeanSquareError.deps.json
+C:\Users\chris.freckleton\source\repos\CodeKata-Mean-Square-Error\MeanSquareError\MeanSquareError\bin\Debug\net8.0\MeanSquareError.runtimeconfig.json
+C:\Users\chris.freckleton\source\repos\CodeKata-Mean-Square-Error\MeanSquareError\MeanSquareError\bin\Debug\net8.0\MeanSquareError.dll
+C:\Users\chris.freckleton\source\repos\CodeKata-Mean-Square-Error\MeanSquareError\MeanSquareError\bin\Debug\net8.0\MeanSquareError.pdb
+C:\Users\chris.freckleton\source\repos\CodeKata-Mean-Square-Error\MeanSquareError\MeanSquareError\obj\Debug\net8.0\MeanSquareError.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris.freckleton\source\repos\CodeKata-Mean-Square-Error\MeanSquareError\MeanSquareError\obj\Debug\net8.0\MeanSquareError.AssemblyInfoInputs.cache
+C:\Users\chris.freckleton\source\repos\CodeKata-Mean-Square-Error\MeanSquareError\MeanSquareError\obj\Debug\net8.0\MeanSquareError.AssemblyInfo.cs
+C:\Users\chris.freckleton\source\repos\CodeKata-Mean-Square-Error\MeanSquareError\MeanSquareError\obj\Debug\net8.0\MeanSquareError.csproj.CoreCompileInputs.cache
+C:\Users\chris.freckleton\source\repos\CodeKata-Mean-Square-Error\MeanSquareError\MeanSquareError\obj\Debug\net8.0\MeanSquareError.sourcelink.json
+C:\Users\chris.freckleton\source\repos\CodeKata-Mean-Square-Error\MeanSquareError\MeanSquareError\obj\Debug\net8.0\MeanSquareError.dll
+C:\Users\chris.freckleton\source\repos\CodeKata-Mean-Square-Error\MeanSquareError\MeanSquareError\obj\Debug\net8.0\refint\MeanSquareError.dll
+C:\Users\chris.freckleton\source\repos\CodeKata-Mean-Square-Error\MeanSquareError\MeanSquareError\obj\Debug\net8.0\MeanSquareError.pdb
+C:\Users\chris.freckleton\source\repos\CodeKata-Mean-Square-Error\MeanSquareError\MeanSquareError\obj\Debug\net8.0\MeanSquareError.genruntimeconfig.cache
+C:\Users\chris.freckleton\source\repos\CodeKata-Mean-Square-Error\MeanSquareError\MeanSquareError\obj\Debug\net8.0\ref\MeanSquareError.dll
